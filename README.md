@@ -8,11 +8,11 @@ A Python program that:
 
 ## How to Run
 1. Install Python (if not already installed).
-2. 1. Clone the repository:
+2. Clone the repository:
    ```bash
    git clone https://github.com/Ethnosqq/Samurat_Python.git
 3. Run the program:
-   ```bash
+   Terminal
    python main.py
 
 ## Example Input/Output
