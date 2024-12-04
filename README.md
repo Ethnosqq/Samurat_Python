@@ -1,6 +1,6 @@
 # Samurat_Python
 
-## Description
+##  Task-1 Description
 A Python program that:
 1. Checks if a number is greater than 7 and prints "Hello".
 2. Checks if the name entered is "John" and outputs the corresponding message.
@@ -8,7 +8,10 @@ A Python program that:
 
 ## How to Run
 1. Install Python (if not already installed).
-2. Run the program:
+2. 1. Clone the repository:
+   ```bash
+   git clone https://github.com/Ethnosqq/Samurat_Python.git
+3. Run the program:
    ```bash
    python main.py
 
@@ -37,4 +40,15 @@ Example output:
 2. There is no such name
 3. Elements that are multiples of 3: [3, 6, 9, 12]
 
+## Task-2
+
+## Bracket Sequence Question
+### Given Sequence: `[((())()(())]]`
+**Can this sequence be considered correct?**  
+No, the sequence is **not correct** because there is an extra closing square bracket `]` without a corresponding opening square bracket `[`.
+
+### How to fix it?
+To make the sequence correct, add one opening square bracket `[` at the beginning of the sequence.
+
+**Correct Sequence:** `[[((())()(())]]`
 
