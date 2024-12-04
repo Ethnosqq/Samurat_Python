@@ -26,10 +26,12 @@ Output:
 ## Testing the program
 Run the program to check its operation:
 1. python main.py
+
 Input example:
 1. Enter a number: 74
 2. Enter a name: Ben
 3. Enter a numeric array (space-separated): 3 6 9 12
+
 Example output:
 1. Hello
 2. There is no such name
